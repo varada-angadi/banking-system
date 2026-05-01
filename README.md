@@ -26,7 +26,7 @@ A robust **Node.js + Express + MongoDB** backend for a banking system that suppo
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ├── controllers/  
 ├── middleware/  
 ├── models/  
@@ -37,9 +37,21 @@ A robust **Node.js + Express + MongoDB** backend for a banking system that suppo
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/your-username/banking-system.git
 cd banking-system
 npm install
+Environment Variables
+```
+
+### Create a .env file
+```
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_secret
+EMAIL_USER=your_email
+CLIENT_ID=your_client_id
+CLIENT_SECRET=your_client_secret
+REFRESH_TOKEN=your_refresh_token
+```
