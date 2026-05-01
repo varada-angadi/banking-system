@@ -14,8 +14,6 @@ A robust **Node.js + Express + MongoDB** backend for a banking system that suppo
 - Token Blacklisting (Logout Security)
 - MongoDB Transactions (Atomic Operations)
 
----
-
 ## Tech Stack
 
 - **Backend:** Node.js, Express
@@ -23,8 +21,6 @@ A robust **Node.js + Express + MongoDB** backend for a banking system that suppo
 - **Authentication:** JWT + Cookies
 - **Email Service:** Nodemailer (OAuth2)
 - **Security:** bcrypt, token blacklist
-
----
 
 ## Project Structure
 ├── controllers/  
@@ -54,4 +50,8 @@ EMAIL_USER=your_email
 CLIENT_ID=your_client_id
 CLIENT_SECRET=your_client_secret
 REFRESH_TOKEN=your_refresh_token
+```
+### Run the Server
+```
+npm start
 ```
