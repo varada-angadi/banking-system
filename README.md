@@ -27,10 +27,10 @@ A robust **Node.js + Express + MongoDB** backend for a banking system that suppo
 ---
 
 ## 📂 Project Structure
-├── controllers/
-├── middleware/
-├── models/
-├── routes/
-├── services/
-├── app.js
-├── db.js
+├── controllers/  
+├── middleware/  
+├── models/  
+├── routes/  
+├── services/  
+├── app.js  
+├── db.js  
