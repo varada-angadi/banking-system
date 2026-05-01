@@ -34,3 +34,12 @@ A robust **Node.js + Express + MongoDB** backend for a banking system that suppo
 ├── services/  
 ├── app.js  
 ├── db.js  
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/banking-system.git
+cd banking-system
+npm install
