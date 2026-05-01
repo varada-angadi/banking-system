@@ -4,20 +4,19 @@ A robust **Node.js + Express + MongoDB** backend for a banking system that suppo
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 User Authentication (Register, Login, Logout with JWT)
-- 🏦 Account Management (Create & View Accounts)
-- 💰 Ledger-Based Balance Calculation
-- 🔁 Secure Transactions with Idempotency
-- 📧 Email Notifications (Registration & Transactions)
-- 🧾 Immutable Ledger Entries
-- 🚫 Token Blacklisting (Logout Security)
-- ⚡ MongoDB Transactions (Atomic Operations)
+- User Authentication (Register, Login, Logout with JWT)
+- Account Management (Create & View Accounts)
+- Ledger-Based Balance Calculation
+- Secure Transactions with Idempotency
+- Email Notifications (Registration & Transactions)
+- Token Blacklisting (Logout Security)
+- MongoDB Transactions (Atomic Operations)
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **Backend:** Node.js, Express
 - **Database:** MongoDB (Mongoose)
@@ -28,3 +27,10 @@ A robust **Node.js + Express + MongoDB** backend for a banking system that suppo
 ---
 
 ## 📂 Project Structure
+├── controllers/
+├── middleware/
+├── models/
+├── routes/
+├── services/
+├── app.js
+├── db.js
