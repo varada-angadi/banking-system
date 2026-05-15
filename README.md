@@ -36,7 +36,7 @@ A robust **Node.js + Express + MongoDB** backend for a banking system that suppo
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/banking-system.git
+git clone https://github.com/varada-angadi/banking-system.git
 cd banking-system
 npm install
 Environment Variables
